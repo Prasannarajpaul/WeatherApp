@@ -38,5 +38,3 @@ Using Alternatives to Avoiding Api Request Count Limit: https://ahorn.lima-city.
 ![Screenshot 2024-02-06 201036](https://github.com/kasyap2807/Weather-Application/assets/125851796/155fa544-f142-494b-82a0-9efe5d818864)
 
 
-### LIVE LINK WITH API 
-LINK : [LIVE LINK WITH API](https://65c3058a1a44722d2c4a4318--cerulean-daffodil-80448e.netlify.app/)
